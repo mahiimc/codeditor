@@ -91,6 +91,7 @@ This project is a collaborative code editor application, allowing multiple users
 
 ## Sample  UI
 ![UI Diagram Diagram](./samples/ui.png)
+![UI Diagram Diagram](./samples/ui2.png)
 
 
 
