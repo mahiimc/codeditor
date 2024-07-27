@@ -89,3 +89,8 @@ This project is a collaborative code editor application, allowing multiple users
     npm start
     ```
 
+## Sample  UI
+![UI Diagram Diagram](./samples/ui.png)
+
+
+
