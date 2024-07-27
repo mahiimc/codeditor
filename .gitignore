@@ -6,3 +6,5 @@
 /ui/.pnp
 /ui/.pnp.js
 /ref
+*/*.class
+*/*.drawio
