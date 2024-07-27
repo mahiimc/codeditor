@@ -18,7 +18,7 @@ public class MessageConsumer {
 	@SendTo
 	public String  consume(String code) {
 		String output =  executorService.execute(code).getConsoleOutput();
-		return "output:"+output;
+		return output;
 	}
 
 }
